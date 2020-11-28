@@ -1,0 +1,49 @@
+h1
+{
+  font-size : 100pt;
+  font-family:impact;
+  text-align: center;
+  color: grey;
+}
+
+body
+{
+  background-image: url("https://img1.picmix.com/output/stamp/normal/0/8/4/0/1560480_ffea2.gif");
+  background-color:black;
+}
+
+p
+{
+  display:inline;
+  font-size : 20pt;
+  font-family:verdana;
+  color:white;
+}
+
+img
+{
+  display: block;
+  margin: 0 auto;
+}
+
+.container
+{
+  display: inline-flex; 
+  justify-content: center;
+}
+
+.item
+{
+  margin-left: 50px;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+
+.quote
+{
+  text-align: end;
+  color: white;
+  font-size : 20pt;
+  font-family:verdana;
+  font-style: italic;
+}
